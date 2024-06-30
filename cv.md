@@ -1,3 +1,5 @@
+![CV_ph](CV_ph_sm.jpg)
+
 # Olga Romanova
 
 ## Contacts:
@@ -15,5 +17,5 @@
 - soft skills: resolving conflicts etc.
 
 ### Code:
-`can't wtite code yet, but 'll learn soon`
+`can't wtite code yet, but 'll learn soon
 
