@@ -1,5 +1,3 @@
-![CV_ph](CV_ph_sm.jpg)
-
 # Olga Romanova
 
 ## Contacts:
