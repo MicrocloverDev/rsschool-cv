@@ -4,18 +4,35 @@
 
 ## Contacts:
 - tg *@microclover*
+- github MicrocloverDev
 - discord *@Olga (MicrocloverDev)*
 - tel +7 960 265 8528
 
 ### About me:
 - 27 y.o.
-- JS beginner
-- office manager
+- code beginner
+- ex. office manager
 
 ### Skills:
-- B1 english level
-- soft skills: resolving conflicts etc.
+- soft skills: resolving conflicts (not just on github) etc.
+- adobe photoshop, adobe illustrator, corel draw.
 
 ### Code:
-`can't wtite code yet, but 'll learn soon
+```
+<table>
+    <thead>
+        <th>Шапка</th>
+        <th>Кепка</th>
+        <th>Шарф</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2">Для головы</td>
+            <td>Для шеи</td>
+        </tr>
+    </tbody>
+</table>
+```
+
+### English B1
 
